@@ -1,0 +1,51 @@
+
+
+/* .WrapperInf{
+    width: 80%;
+} */
+
+
+.Disclimer{
+    display: block;
+    margin: 25px 0 5px 40px;
+    padding: 10px 30px;
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 25px;
+    width: 320px;
+}
+
+
+.schedule{
+    margin: 20px 40px;
+}
+
+
+
+.Time{
+    background-color: rgba(214, 214, 214, 0.4);
+    padding: 20px 40px;
+    margin: 10px 50px 20px 0px;
+    border-radius: 25px;
+}
+
+
+.Time tr td{
+    border: 1px solid black;
+    padding: 5px 10px;
+    font-weight: 600;
+}
+
+.numb{
+    margin: 0;
+}
+
+
+.list{
+    max-width: 400px;
+    padding: 5px;
+    margin: 7px 45px;
+    background-color: rgba(255, 255, 255, 0.35);
+    border-radius: 25px;
+    align-items: center;
+    padding-left: 30px;
+}

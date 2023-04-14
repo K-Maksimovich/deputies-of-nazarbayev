@@ -1,0 +1,39 @@
+.footer{
+    position: relative;
+    min-height: 100%;
+    width: 100%;
+    display: flex;
+    height: 75px;
+    left: 0;
+    bottom: 0;
+    list-style-type: none;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(255, 255, 255, 0.151);
+    border-radius: 20px 20px 0 0;
+    flex-wrap: nowrap;
+}
+
+.myBrand{
+    font-size: 40px;
+    padding-left: 10px;
+}
+
+.contact{
+    margin: 0 5%;
+    flex-wrap: nowrap;
+}
+
+.cont{
+    margin: 0 10px;
+    padding: 10px;
+    font-weight: 600;
+    text-decoration: none;
+    color: black;
+    background-color: rgba(0, 0, 0, 0.089);
+    transition: all .3s ease;
+    flex-wrap: nowrap;
+}
+.cont:hover{
+    box-shadow: 1px 10px 20px rgba(0, 0, 0, 0.3);
+}

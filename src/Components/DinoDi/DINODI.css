@@ -1,0 +1,82 @@
+
+
+
+
+.floor{
+    height: 400px;
+    width: 800px;
+    display:block;
+    margin: 10% auto 0 auto;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 40px 25px -5px, rgba(0, 0, 0, 0.07) 0px 20px 5px -5px;
+    overflow: hidden;
+    position: relative;
+}
+
+
+            /* FLOOR_IMAGES_AND_ANIMATION */
+
+.floor_img-list{
+    display: flex;
+    position: absolute;
+}
+
+.bg_img{
+    position: relative;
+    animation: moveLeft 3.5s infinite linear;
+    height: 500px;
+    width: 1000px;
+    bottom: 32px;
+    display: flex; 
+}
+
+@keyframes moveLeft {
+    0% { transform: translatex(0); }
+  100% { transform: translatex(-100%); }
+}
+
+
+
+
+        /* Cactus image and Animation */
+
+.Cactus{
+    width: 40px;
+    height: 60px;
+    margin: 315px 0 0 780px;
+    position: relative;
+    animation: block 3.5s infinite linear;
+}
+
+@keyframes block{
+    0%{left: 0%}
+    100%{left: -100%;}
+}
+
+
+
+            /* DINOZAVR */
+
+
+.Dinozavr{
+    width: 65px;
+    height: 85px;
+    position: relative;
+    margin: 290px 0 0 -780px;
+    /* animation: jump .8s infinite linear; */
+}
+
+
+
+            /* ANIMATION JUMP */
+
+.jump{
+    animation: jump .8s linear;
+}
+
+@keyframes jump{
+    0%{top: 0%;}
+    40%{top: -110px;}
+    70%{top: -110px;}
+    100%{top: 0%;}
+}
+

@@ -1,0 +1,106 @@
+
+
+/* Основная часть. Текст    Main part */
+.content{
+    max-width: 90%;
+    max-height: 800px;
+    margin: 5% auto;
+    background-color: rgba(255, 255, 255, 0.151);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.363);
+    font-size: 24px;
+    padding: 1.2%;
+    border-radius: 50px;
+    position: relative;
+}
+
+.discription{
+    padding: 1%;
+    cursor: default;
+}
+.a{
+    padding: 1%;
+    cursor: default;
+}
+.b{
+    padding: 1%;
+    cursor: default;
+}
+
+
+.Beta{
+    position: absolute;
+    margin: -2% 0 0 15%;
+    display: flex;
+    font-size: 25px;
+    color: white;
+}
+
+
+
+/* Info user. Search */
+
+.info--user{
+    width: 135vh;
+    position: relative;
+    display: block;
+    margin: 100px auto;
+    background-color: rgba(255, 255, 255, 0.151);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.363);
+    font-size: 24px;
+    padding: 1.2%;
+    border-radius: 50px;
+}
+
+.Search{
+    position: relative;
+    margin: 1% 25%;
+}
+.searchInp{
+    border: 1px solid black;
+}
+
+
+.variant{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    margin: 2%;
+    right: 120px;
+    cursor: default;
+}
+
+.user--list{
+    position: relative;
+    display: flex;
+}
+
+.GROUP__List{
+    margin: 2% 8%;
+}
+
+.TOP{
+    margin: 2% 5% 2% 15%;
+}
+
+.listElem{
+    cursor: pointer;
+    opacity: 0.6;
+    transition: all .4s ease;
+}
+.listElem:hover{
+    opacity: 1;
+}
+
+
+.more{
+    position: relative;
+    padding: 5px 10px;
+    border: 2px solid black;
+    left: 80%;
+    opacity: 0.7;
+    transition: all .5s ease;
+}
+.more:hover{
+    padding: 5px 15px;
+    opacity: 1;
+}

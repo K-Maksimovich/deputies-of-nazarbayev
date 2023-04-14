@@ -1,0 +1,338 @@
+    /*    ========== Desctop First ==========     */
+ /* Large Devices, Wide Screens  */ 
+@media only screen and (max-width: 1200px) {
+    
+    .wrapperr .All__Game .Game__List .List--Elem{
+        width: 250px;
+        height: 250px;
+    }
+
+}
+
+
+
+
+/* Medium Devices, Desctops */
+@media only screen and (max-width: 992px) {
+
+
+    .main .info--user{
+        width: 115vh;
+    }
+
+
+    
+    .wrapperr .All__Game .Game__List .List--Elem{
+        width: 190px;
+        height: 190px;
+        margin: 8px;
+        padding: 20px;
+    }
+
+
+    .header .logo{
+        width: 222px;
+    }
+
+
+    .header .nav--link{
+        margin: 0 2%;
+    }
+
+
+    .wrapperr .Beta{
+        margin: 30px 5%;
+        position: relative;
+    }
+
+
+    .except__text .txt{
+        margin: 0 3%;
+    }
+
+
+
+    .footer .myBrand{
+        font-size: 35px;
+    }
+
+
+
+    .footer .contact{
+        margin: 0 3% 0 0;
+    }
+
+    .footer .cont{
+        margin: 0 8px;
+        padding: 8px;
+        font-size: 13px;
+    }
+
+
+}
+
+
+
+
+/* Small Devices, Tablets */
+@media only screen and (max-width: 768px) {
+    
+
+    .main .info--user{
+        width: 78vh;
+    }
+
+
+    .main .content{
+        padding: 2%;
+    }
+    
+    .main .Beta {
+        margin: -2% 0 0 7%;
+    }
+
+
+    .info--user .Search{
+        margin: 1% 12%;
+    }
+
+    .info--user .variant{
+        right: 80px;
+    }
+
+    .info--user .more{
+        left: 73%;
+        bottom: 15px;
+    }
+
+
+
+    
+    .wrapperr .All__Game .Game__List .List--Elem{
+        width: 220px;
+        height: 220px;
+        margin: 8px;
+        padding: 20px;
+    }
+
+
+    .wrapperr .Beta{
+        margin: 30px 5%;
+        position: relative;
+    }
+
+
+    .except__text .txt{
+        margin: 0 3%;
+    }
+
+
+
+
+
+    /* DINOZAVR */
+
+
+    .wrapper .floor{
+        height: 450px;
+        width: 730px;
+    }
+
+
+    /* DINOZAVR */
+
+
+
+    .header .logo{
+        width: 120px;
+        padding: 0;
+        margin: 0;
+    }
+
+
+    .header .nav--link{
+        margin: 0 1%;
+        font-size: 12px;
+    }
+
+    .header .btn__Log-Reg .Btn{
+        font-size: 10px;
+        padding: 5px 5px;
+        margin: 0 2px;
+    }
+
+
+
+
+
+    .footer .myBrand{
+        font-size: 20px;
+    }
+
+    .footer .contact{
+        margin: 0 1% 0 0;
+    }
+
+    .footer .cont{
+        margin: 0 1px;
+        padding: 8px 4px;
+        font-size: 9px;
+    }
+
+
+
+}
+
+
+
+
+
+
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 480px) {
+
+    
+    .main .info--user{
+        width: 95%;
+    }
+
+
+    .main .content{
+        padding: 2.5%;
+    }
+    
+    .main .Beta {
+        margin: -2% 0 0 7%;
+    }
+
+
+    .info--user .Search{
+        margin: 4% 8%;
+    }
+
+    .info--user .searchInp{
+        width: 222px;
+    }
+
+    .info--user .variant{
+        right: 35px;
+    }
+
+
+    .info--user .more{
+        left: 63%;
+        bottom: 15px;
+    }
+
+
+    .user--list{
+        margin: 0 0 0 22px;
+    }
+
+
+
+
+    .list-teachers .Disclimer{
+        margin: 25px 0 5px 0;
+    }
+
+    .Time tr td {
+        padding: 3px 7px;
+    }
+
+    .schedule .Time{
+        margin: 10px 0 20px 0;
+    }
+
+    .Beta .textRaspisanieADAPTIVE{
+        margin: 25px 0 5px -20;
+        padding: 10px 20px;
+        width: 200px;
+    }
+
+
+    
+    .wrapperr .All__Game .Game__List .List--Elem{
+        width: 220px;
+        height: 220px;
+        margin: 8px;
+        padding: 20px;
+    }
+
+
+    .wrapperr .Beta{
+        margin: 30px 5%;
+        position: relative;
+    }
+
+
+    .except__text .txt{
+        margin: 0 3%;
+    }
+
+
+
+
+
+    /* DINOZAVR */
+
+
+    .wrapper .floor{
+        height: 450px;
+        width: 730px;
+    }
+
+
+    /* DINOZAVR */
+
+
+
+    .header{
+        height: 40px;
+    }
+
+    .header .logo{
+        width: 100px;
+        padding: 0;
+        margin: 0;
+    }
+
+
+    .header .nav--link{
+        margin: 0 .2%;
+        font-size:5.8px;
+    }
+
+    .header .btn__Log-Reg .Btn{
+        font-size: 6.5px;
+        padding: 3px 3px;
+        margin: 0 2px;
+    }
+
+
+
+
+
+    .footer .myBrand{
+        font-size: 20px;
+    }
+
+    .footer .contact{
+        margin: 0 3% 0 0;
+    }
+
+    .footer .cont{
+        margin: 0 2px;
+        padding: 6px 3px;
+        font-size: 5.8px;
+    }
+
+
+
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width: 320px) {
+    
+}
