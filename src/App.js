@@ -1,4 +1,4 @@
-import {HashRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route} from "react-router-dom";
 
 import './adaptive.css';
 
@@ -19,7 +19,7 @@ const App = () => {
   return (
     <div className="App">
 
-      <Router>
+      <HashRouter>
 
         <Routes>
                       {/* pages sites */}
@@ -33,7 +33,7 @@ const App = () => {
         </Routes>
 
       
-      </Router>
+      </HashRouter>
 
     </div>
   );
