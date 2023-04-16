@@ -17,25 +17,22 @@ import { SnakePy } from "./pages/SnakePy";
 
 const App = () => {
   return (
-    <div className="App">
+    <HashRouter>
 
-      <HashRouter>
-
-        <Routes>
+      <Routes>
                       {/* pages sites */}
-          <Route path="/" element={<Home />} />
-          <Route path="/deputies-of-nazarbayev/info" element={<Information />} />
-          <Route path="/games" element={<Game />} />
+        <Route path="/" element={<Home />} />
+        <Route path="/deputies-of-nazarbayev/info" element={<Information />} />
+        <Route path="/games" element={<Game />} />
 
-          <Route path="/games/color-blast" element={<ColorBlast />} />
-          <Route path="/games/DinoDi" element={< DinoDi />} />
-          <Route path="/games/SnalePy" element={<SnakePy />} />
-        </Routes>
+        <Route path="/games/color-blast" element={<ColorBlast />} />
+        <Route path="/games/DinoDi" element={< DinoDi />} />
+        <Route path="/games/SnalePy" element={<SnakePy />} />
+      </Routes>
 
       
-      </HashRouter>
+    </HashRouter>
 
-    </div>
   );
 }
 
