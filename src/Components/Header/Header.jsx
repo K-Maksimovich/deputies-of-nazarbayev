@@ -6,7 +6,7 @@ import logoImage from '../../Assets/Images/LoGoTiP.png';
 const Header = () => {
   return (
     <div className="header">
-      <a href="https://k-maksimovich.github.io/deputies-of-nazarbayev/" className="logo"><img src={logoImage} alt="logo" className="logo" /></a>
+      <a href="/" className="logo"><img src={logoImage} alt="logo" className="logo" /></a>
       <div className="nav--bar">
         <a href="/info" className="nav--link">Информэйшин</a>
         <a href="/games" className="nav--link">Игры</a>
