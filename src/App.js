@@ -1,4 +1,4 @@
-import { HashRouter, Routes, Route} from "react-router-dom";
+import {Routes, Route} from "react-router-dom";
 
 import './adaptive.css';
 
@@ -17,7 +17,7 @@ import { SnakePy } from "./pages/SnakePy";
 
 const App = () => {
   return (
-    <HashRouter>
+    
 
       <Routes>
                       {/* pages sites */}
@@ -31,7 +31,7 @@ const App = () => {
       </Routes>
 
       
-    </HashRouter>
+    
 
   );
 }
