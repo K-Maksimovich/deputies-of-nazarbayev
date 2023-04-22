@@ -7,6 +7,7 @@
         height: 250px;
     }
 
+
 }
 
 
@@ -17,7 +18,7 @@
 
 
     .main .info--user{
-        width: 115vh;
+        width: 215vh;
     }
 
 
@@ -311,7 +312,9 @@
     }
 
 
-
+    .footer{
+        margin-top: 30px;
+    }
 
 
     .footer .myBrand{
@@ -325,9 +328,16 @@
     .footer .cont{
         margin: 0 2px;
         padding: 6px 3px;
-        font-size: 5.8px;
+        font-size: 5.3px;
     }
 
+
+
+        /* LOGIN AND REGISTER */
+
+    .BoDy .login-box{
+        width: 300px;
+    }
 
 
 }

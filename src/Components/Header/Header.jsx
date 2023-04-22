@@ -13,8 +13,8 @@ const Header = () => {
         <a href="#!" className="nav--link">Погода</a>
       </div>
       <div className="btn__Log-Reg">
-        <a className="Btn LogIn" href='#!'>Log In</a>
-        <a className="Btn Register" href='#!'>Register</a>
+        <a className="Btn LogIn" href='/login'>Log In</a>
+        <a className="Btn Register" href='/register'>Register</a>
       </div>
 
     </div>
