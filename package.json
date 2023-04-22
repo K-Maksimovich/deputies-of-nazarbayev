@@ -1,7 +1,7 @@
 {
   "name": "deputies-of-nazarbayev",
   "version": "0.1.0",
-  "homepage": "https:///K-Maksimovich.github.io/deputies-of-nazarbayev",
+  "homepage": "https://K-Maksimovich.github.io/deputies-of-nazarbayev",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
