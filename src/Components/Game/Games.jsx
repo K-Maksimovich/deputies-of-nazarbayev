@@ -20,9 +20,9 @@ const Games = () => {
 
           <div className="All__Game">
               <div className="Game__List">
-                <a href="/games/color-blast" className="List--Elem"><img src={ColorBlast} alt="Color Blast" className='img_Game' /><p className="NameGame"> Color Blast</p></a>
-                <a href="/games/DinoDi" className="List--Elem"><img src={DinoDi} alt="Dino Di" className='img_Game' /><p className="NameGame"> Dino Di</p></a>
-                <a href="/games/SnalePy" className="List--Elem"><img src={SnakePy} alt="Snake Py"className='img_Game' /><p className="NameGame"> Snake Py</p></a>
+                <a href="/deputies-of-nazarbayev/#/games/color-blast" className="List--Elem"><img src={ColorBlast} alt="Color Blast" className='img_Game' /><p className="NameGame"> Color Blast</p></a>
+                <a href="/deputies-of-nazarbayev/#/games/DinoDi" className="List--Elem"><img src={DinoDi} alt="Dino Di" className='img_Game' /><p className="NameGame"> Dino Di</p></a>
+                <a href="/deputies-of-nazarbayev/#/games/SnalePy" className="List--Elem"><img src={SnakePy} alt="Snake Py"className='img_Game' /><p className="NameGame"> Snake Py</p></a>
 
                 {/* <a href="#!" className="List--Elem"><img src="" alt=""className='img_Game' /><p className="NameGame">  </p></a>
                 <a href="#!" className="List--Elem"><img src="" alt=""className='img_Game' /><p className="NameGame">  </p></a>
