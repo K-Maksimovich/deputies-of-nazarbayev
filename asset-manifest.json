@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deputies-of-nazarbayev/static/css/main.c606855e.css",
-    "main.js": "/deputies-of-nazarbayev/static/js/main.9eef961e.js",
+    "main.js": "/deputies-of-nazarbayev/static/js/main.470c678a.js",
     "static/js/787.07cdd721.chunk.js": "/deputies-of-nazarbayev/static/js/787.07cdd721.chunk.js",
     "static/media/LoGoTiP.png": "/deputies-of-nazarbayev/static/media/LoGoTiP.4bbb32982acfd4c8f945.png",
     "static/media/Dinozavr.png": "/deputies-of-nazarbayev/static/media/Dinozavr.e5e3d75a54ec714f466f.png",
@@ -9,11 +9,11 @@
     "static/media/BGImg.png": "/deputies-of-nazarbayev/static/media/BGImg.01d3eec24778cb1bf810.png",
     "index.html": "/deputies-of-nazarbayev/index.html",
     "main.c606855e.css.map": "/deputies-of-nazarbayev/static/css/main.c606855e.css.map",
-    "main.9eef961e.js.map": "/deputies-of-nazarbayev/static/js/main.9eef961e.js.map",
+    "main.470c678a.js.map": "/deputies-of-nazarbayev/static/js/main.470c678a.js.map",
     "787.07cdd721.chunk.js.map": "/deputies-of-nazarbayev/static/js/787.07cdd721.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c606855e.css",
-    "static/js/main.9eef961e.js"
+    "static/js/main.470c678a.js"
   ]
 }
